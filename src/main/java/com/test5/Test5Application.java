@@ -12,6 +12,8 @@ public class Test5Application {
 
          int x = 100;
 
+	int y = 200;
+
 	SpringApplication.run(Test5Application.class, args);
 	}
 
