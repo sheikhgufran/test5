@@ -12,6 +12,7 @@ public class Test5Application {
 
          int x = 100;
 
+	boolean isPresent = false;
 	SpringApplication.run(Test5Application.class, args);
 	}
 
